@@ -1,0 +1,13 @@
+{
+  "id": "notion",
+  "name": "Notion",
+  "version": "1.0.0",
+  "description": "Notion recipe for franz",
+  "main": "index.js",
+  "author": "Omar Mekky <alphaengine@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/cousine/franz-notion",
+  "config": {
+    "serviceURL": "https://notion.so/"
+  }
+}
